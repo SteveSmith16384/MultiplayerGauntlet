@@ -1,0 +1,8 @@
+bin
+.svn
+/.metadata/
+/.recommenders/
+sources.txt
+*.log
+.settings
+user.properties
